@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Expensify
 Expensify is a full-stack personal finance management application designed to help users track their daily expenses, analyze spending patterns, and improve financial decision-making. The app provides an intuitive user interface for managing expenses, categorizing transactions, and visualizing spending habits.
 =======
@@ -53,3 +54,7 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 >>>>>>> 578b92a (Initial commit - added project files)
+=======
+# Expensify
+Expensify is a full-stack personal finance management application designed to help users track their daily expenses, analyze spending patterns, and improve financial decision-making. The app provides an intuitive user interface for managing expenses, categorizing transactions, and visualizing spending habits.
+>>>>>>> 859a38190f756c6d86938cdca90e6f1f5d7d9431
