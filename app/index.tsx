@@ -1,5 +1,5 @@
 import { Image, StyleSheet, Text, View } from "react-native";
-import React from "react";
+import React, { useEffect} from "react";
 import { colors } from "@/constants/theme";
 import { useRouter } from "expo-router";
 
@@ -9,7 +9,7 @@ const index = () => {
     setTimeout(() => {
       router.push("/welcome");
     }, 2000);
-  }, timeout);
+  }, []);
   return (
     <View style={styles.container}>
       <Image
