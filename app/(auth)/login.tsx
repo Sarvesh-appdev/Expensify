@@ -55,7 +55,7 @@ const Login = () => {
           />
           <Input placeholder ="Enter your password" 
           secureTextEntry
-          onChangeText = {(value) => (emailRef.current = value)}
+          onChangeText = {(value) => (passwordRef.current = value)}
           icon={
             <Icons.Lock size = {verticalScale(26)} color={colors.neutral300}
             weight="fill" 
