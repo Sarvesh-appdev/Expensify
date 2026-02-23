@@ -28,7 +28,7 @@ Expensify is a full-stack financial tracking application built to help users man
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/images/dashboard.png)
 
 ### Expense Management
 
