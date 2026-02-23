@@ -24,7 +24,7 @@ Expensify is a full-stack financial tracking application built to help users man
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](assets/images/login.png)
 
 ### Dashboard
 
@@ -32,7 +32,7 @@ Expensify is a full-stack financial tracking application built to help users man
 
 ### Expense Management
 
-![Expenses](screenshots/expenses.png)
+![Expenses](assets/images/Expense.png)
 
 ## 📈 Project Status
 
