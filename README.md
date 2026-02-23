@@ -21,6 +21,9 @@ Expensify is a full-stack financial tracking application built to help users man
 - Deployment: Docker (local development)
 
 ## 📸 Screenshots
+<p align="center">
+<img src="assets/images/dashboard.png" width="300"/>
+</p>
 
 ### Login Page
 
