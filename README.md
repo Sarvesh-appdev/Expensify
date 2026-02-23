@@ -1,9 +1,11 @@
 # Expensify – Financial Tracking Application
 
 ## 📌 Overview
+
 Expensify is a full-stack financial tracking application built to help users manage expenses, track spending patterns, and maintain organized financial records.
 
 ## 🚀 Features
+
 - User authentication and secure login
 - Add, edit, and delete expenses
 - Expense categorization
@@ -12,6 +14,7 @@ Expensify is a full-stack financial tracking application built to help users man
 - Responsive UI design
 
 ## 🛠 Tech Stack
+
 - Frontend: React
 - Backend: Node.js, Express
 - Database: PostgreSQL
@@ -20,24 +23,30 @@ Expensify is a full-stack financial tracking application built to help users man
 ## 📸 Screenshots
 
 ### Login Page
+
 ![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+
+![Dashboard](assets/dashboard.png)
 
 ### Expense Management
+
 ![Expenses](screenshots/expenses.png)
 
 ## 📈 Project Status
+
 🚧 Currently under active development. Core functionality implemented with additional enhancements planned.
 
 ## 🔮 Future Improvements
+
 - Advanced analytics dashboard
 - Multi-user collaboration
 - Improved reporting features
 - Cloud deployment
 
 ## ⚙️ Setup Instructions
+
 1. Clone the repository
 2. Run `npm install`
 3. Configure environment variables
